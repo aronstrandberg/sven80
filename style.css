@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400');
+
+body {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Rubik", serif;
+  font-weight: 100;
+  font-size: 2em;
+
+}
+
+.image-container {
+  width: 100vw;
+  margin: 2em auto;
+}
+
+img {
+  object-fit: contain;
+  width: 100%;
+  max-height: 95vh;
+}
+
+p {
+  width: 90%;
+  margin: 1em auto;
+}
